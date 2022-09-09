@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Timothy </h1>
+<h1 align="center">Hi there 👋,  I'm Timothy </h1>
 <h3 align="center">A frontend developer.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif" />
