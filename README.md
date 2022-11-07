@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.blackfreelancer.com/timmbach](https://www.blackfreelancer.com/timmbach)
 
-- 💬 Ask me about **react and javascript**
+- 💬 Ask me about **React and JavaScript**
 
 - 📫 How to reach me **follow.timothy@gmail.com**
 
