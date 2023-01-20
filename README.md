@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/timmbach" target="blank"><img src="https://img.shields.io/twitter/follow/timmbach?logo=twitter&style=for-the-badge" alt="timmbach" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m always learning **New frontend tools**
 
 - 👨‍💻 All of my projects are available at [https://www.blackfreelancer.com/timmbach](https://www.blackfreelancer.com/timmbach)
 
-- 💬 Ask me about **React and JavaScript**
+- 💬 Ask me about **React and Angular**
 
 - 📫 How to reach me **follow.timothy@gmail.com**
 
