@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **A contacts manager**
 
-- 🌱 I’m currently learning **C# and ASP.Net**
+- 🌱 I’m currently learning **C# and ASP.NET**
 
 - 👯 I’m looking to collaborate on [A file management app](https://d2dtyshm98cenl.cloudfront.net/)
 
