@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/timmbach" target="blank"><img src="https://img.shields.io/twitter/follow/timmbach?logo=twitter&style=for-the-badge" alt="timmbach" /></a> </p>
 
-- 🔭 I’m currently working on **A contacts manager**
+- 🔭 I’m currently working on **Billed**. A budgeting application hosted at https://billed-dashboard.netlify.app/
 
 - 🌱 I’m currently learning **C# and ASP.NET**
 
