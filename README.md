@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Billed]( https://billed-dashboard.netlify.app/)
 
-- 🌱 I’m currently learning **C# and ASP.NET**
+- 🌱 I’m currently learning **NextJs**
 
 - 👯 I’m looking to collaborate on [A file management app](https://d2dtyshm98cenl.cloudfront.net/)
 
