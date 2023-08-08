@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [A file management app](https://d2dtyshm98cenl.cloudfront.net/)
 
-- 👨‍💻 Some of my live projects are available at [https://timothy-portfolio.vercel.app](https://timothy-portfolio.vercel.app/)
+- 👨‍💻 Some of my live projects are available at [https://blackfreelancer.com/timmbach](https://blackfreelancer.com/timmbach)
 
 - 💬 Ask me about **React, Angular**
 
