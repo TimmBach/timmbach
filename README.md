@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋,  I'm Timothy </h1>
-<h3 align="center">A Frontend Developer.</h3>
+<h3 align="center">A Fullstack Developer.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif" />
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 Some of my live projects are available at [https://blackfreelancer.com/timmbach](https://blackfreelancer.com/timmbach)
 
-- 💬 Ask me about **React, Angular**
+- 💬 Ask me about **React, Angular, ExpressJS**
 
 - 📫 How to reach me **follow.timothy@gmail.com**
 
