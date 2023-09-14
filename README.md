@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **follow.timothy@gmail.com**
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1E3F972Fa8NsDzte2hGcil4B47kmeMsGy/view?usp=share_link)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1MSkYkbr3VrI3S3fC_omaTj_oA0SIEP1i/view?usp=sharing)
 
 - ⚡ Fun fact **I think I have a good sense of humour**
 
