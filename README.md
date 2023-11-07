@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/timmbach" target="blank"><img src="https://img.shields.io/twitter/follow/timmbach?logo=twitter&style=for-the-badge" alt="timmbach" /></a> </p>
 
-- 🔭 I’m currently working on [readyhomes](https://selfcon-frontend.vercel.app/)
+- 🔭 I’m currently working on [move-in real estate](https://move-in.onrender.com/)
 
 - 🌱 I’m currently learning **NextJs**
 
-- 👯 I’m looking to collaborate on [A file management app](https://d2dtyshm98cenl.cloudfront.net/)
+- 👯 I’m looking to collaborate on [freelancing clients and projects management app](https://my-freelancing-projects-frontend.vercel.app/)
 
 - 👨‍💻 Some of my live projects are available at [https://blackfreelancer.com/timmbach](https://blackfreelancer.com/timmbach)
 
