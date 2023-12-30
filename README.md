@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [move-in real estate](https://move-in.onrender.com/)
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **Django**
 
 - 👯 I’m looking to collaborate on [freelancing clients and projects management app](https://my-freelancing-projects-frontend.vercel.app/)
 
